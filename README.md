@@ -5,7 +5,6 @@ Juan Nicolas Schlotterbeck Byrne
 
 ## Metrics obtained
 
-loss :  0.2946699857711792 \
 fn :  57.0 \
 fp :  1089.0 \
 tn :  6303.0 \
